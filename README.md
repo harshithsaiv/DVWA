@@ -1,4 +1,4 @@
-<h1>Uko React Admin Dashboard Template</h1>
+<h1>DVWA React User Dashboard for various attacks</h1>
 
 ![image](https://github.com/godfather2327/DVWA/assets/68597202/6ebfb514-3726-4247-9cb5-6817ed3d00e3)
 
