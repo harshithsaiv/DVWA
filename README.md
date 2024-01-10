@@ -15,7 +15,7 @@ Its clean codebase and design significantly reduce development costs, time, and 
   <li>Dashboard</li>
   <li>Users
     <ul>
-      <li><User Profile</li>
+      <li>User Profile/li>
       <li>User List</li>
       <li>Various Attacks</li>
       <li>Add User</li>
@@ -23,7 +23,7 @@ Its clean codebase and design significantly reduce development costs, time, and 
   </li>
   <li>UI kits
     <ul>
-      <li>>MUI components</li>
+      <li>MUI components</li>
     </ul>
   </li>
   <li>Session pages
