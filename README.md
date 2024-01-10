@@ -15,7 +15,7 @@
   <li>Dashboard</li>
   <li>Users
     <ul>
-      <li>User Profile/li>
+      <li>User Profile</li>
       <li>User List</li>
       <li>Various Attacks</li>
       <li>Add User</li>
