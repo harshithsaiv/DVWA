@@ -3,10 +3,7 @@
 ![image](https://github.com/godfather2327/DVWA/assets/68597202/6ebfb514-3726-4247-9cb5-6817ed3d00e3)
 
 
-<img alt="Uko React Admin" src="https://ui-lib.com/wp-content/uploads/2022/06/uko-react-free.png" />
-
-<p>Professional React dashboard template with robust MUI components.
-Its clean codebase and design significantly reduce development costs, time, and effort.</p>
+<p>DVWA (Damn Vulnurable Web Applications ) developed a web application that has user dashboard showing the various web vulnerabilities and the quizzes on those vulnurabilities that help the user to practise the different skills that is required to gain knowledge about web vulnerabilities </p>
 
 <h2>Features and Pages</h2>
 <ul>
@@ -36,6 +33,7 @@ Its clean codebase and design significantly reduce development costs, time, and 
     </ul>
   </li>
 </ul>
+
 ## Login Page
 
 ![image](https://github.com/godfather2327/DVWA/assets/68597202/ac9816ca-0ded-4a0c-8c8f-a8ce791297d6)
